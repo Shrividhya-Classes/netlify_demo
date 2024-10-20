@@ -2,10 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>svcdemowebsite.netlify.app/categories/</loc>
+    <loc>https://svcdemo.netlify.app/categories/</loc>
   </url><url>
-    <loc>svcdemowebsite.netlify.app/</loc>
+    <loc>https://svcdemo.netlify.app/</loc>
   </url><url>
-    <loc>svcdemowebsite.netlify.app/tags/</loc>
+    <loc>https://svcdemo.netlify.app/tags/</loc>
   </url>
 </urlset>

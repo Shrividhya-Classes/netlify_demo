@@ -1,4 +1,4 @@
-baseURL = 'svcdemowebsite.netlify.app'
+baseURL = 'https://svcdemo.netlify.app/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'ananke'
