@@ -1,4 +1,12 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://shrividhya.in/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'ananke'
+
+[build]
+  command = "hugo"
+  publish = "public"
+
+[context.production.environment]
+  HUGO_VERSION = "0.135.0"
+
