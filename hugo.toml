@@ -2,10 +2,3 @@ baseURL = 'svcdemowebsite.netlify.app'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'ananke'
-
-[build]
-  command = "hugo --gc --minify"
-  publish = "public"
-
-[context.production.environment]
-  HUGO_VERSION = "0.135.0"
