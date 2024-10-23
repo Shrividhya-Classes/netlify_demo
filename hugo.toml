@@ -1,4 +1,4 @@
 baseURL = 'https://svcdemo.netlify.app/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Shrividya Classes Demo Webstie'
 theme = 'ananke'
